@@ -231,12 +231,6 @@ API.md
 
 ---
 
-## 📜 License
-
-This project is licensed under the MIT License.
-
----
-
 ## ⭐ SupportFlow
 
 A full-stack enterprise support ticket management system demonstrating modern backend architecture, RBAC, workflow management, audit logging, testing, and React-based UI development.
